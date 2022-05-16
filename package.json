@@ -6,17 +6,17 @@
     "serve": "vite preview"
   },
   "dependencies": {
-    "@babylonjs/core": "^5.0.0-alpha.31",
-    "@babylonjs/loaders": "^5.0.0-alpha.31",
-    "@babylonjs/materials": "^5.0.0-alpha.31",
-    "vue": "^3.2.20"
+    "@babylonjs/core": "^5.6.0",
+    "@babylonjs/loaders": "^5.6.0",
+    "@babylonjs/materials": "^5.6.0",
+    "vue": "^3.2.33"
   },
   "devDependencies": {
-    "@babylonjs/inspector": "^5.0.0-alpha.31",
-    "@vitejs/plugin-vue": "^1.9.4",
-    "@vue/compiler-sfc": "^3.2.20",
-    "typescript": "^4.4.4",
-    "vite": "^2.6.13",
-    "vue-tsc": "^0.28.10"
+    "@babylonjs/inspector": "^5.6.0",
+    "@vitejs/plugin-vue": "^2.3.3",
+    "@vue/compiler-sfc": "^3.2.33",
+    "typescript": "^4.6.4",
+    "vite": "^2.9.9",
+    "vue-tsc": "^0.34.15"
   }
 }
